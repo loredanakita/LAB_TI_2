@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95FA83AF-4398-4117-BB4B-D11771B635E8}|LAB2_TI\\LAB2_TI.csproj|c:\\users\\nikita\\desktop\\lorik\\lab2_ti\\lab2_ti\\binaryparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FA83AF-4398-4117-BB4B-D11771B635E8}|LAB2_TI\\LAB2_TI.csproj|solutionrelative:lab2_ti\\binaryparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FA83AF-4398-4117-BB4B-D11771B635E8}|LAB2_TI\\LAB2_TI.csproj|c:\\users\\nikita\\desktop\\lorik\\lab2_ti\\lab2_ti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FA83AF-4398-4117-BB4B-D11771B635E8}|LAB2_TI\\LAB2_TI.csproj|solutionrelative:lab2_ti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FA83AF-4398-4117-BB4B-D11771B635E8}|LAB2_TI\\LAB2_TI.csproj|c:\\users\\nikita\\desktop\\lorik\\lab2_ti\\lab2_ti\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FA83AF-4398-4117-BB4B-D11771B635E8}|LAB2_TI\\LAB2_TI.csproj|solutionrelative:lab2_ti\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FA83AF-4398-4117-BB4B-D11771B635E8}|LAB2_TI\\LAB2_TI.csproj|C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\lab2_ti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95FA83AF-4398-4117-BB4B-D11771B635E8}|LAB2_TI\\LAB2_TI.csproj|solutionrelative:lab2_ti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FA83AF-4398-4117-BB4B-D11771B635E8}|LAB2_TI\\LAB2_TI.csproj|C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\lab2_ti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FA83AF-4398-4117-BB4B-D11771B635E8}|LAB2_TI\\LAB2_TI.csproj|solutionrelative:lab2_ti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\LAB2_TI\\Program.cs",
+              "RelativeDocumentMoniker": "LAB2_TI\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\LAB2_TI\\Program.cs",
+              "RelativeToolTip": "LAB2_TI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:31:38.644Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\LAB2_TI\\KeyGenerator.cs",
+              "RelativeDocumentMoniker": "LAB2_TI\\KeyGenerator.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\LAB2_TI\\KeyGenerator.cs",
+              "RelativeToolTip": "LAB2_TI\\KeyGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:44:17.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryParser.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\LAB2_TI\\BinaryParser.cs",
+              "RelativeDocumentMoniker": "LAB2_TI\\BinaryParser.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\LAB2_TI\\BinaryParser.cs",
+              "RelativeToolTip": "LAB2_TI\\BinaryParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:40:41.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\LAB2_TI\\Form1.cs",
+              "RelativeDocumentMoniker": "LAB2_TI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\LAB2_TI\\Form1.cs",
+              "RelativeToolTip": "LAB2_TI\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:31:43.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\LAB2_TI\\Form1.cs",
+              "RelativeDocumentMoniker": "LAB2_TI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\LORIK\\LAB2_TI\\LAB2_TI\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LAB2_TI\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:24:07.012Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

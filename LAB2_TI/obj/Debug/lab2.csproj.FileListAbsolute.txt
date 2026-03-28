@@ -1,0 +1,10 @@
+C:\Users\Nikita\Desktop\IT_LAB2-master\lab2\bin\Debug\lab2.exe.config
+C:\Users\Nikita\Desktop\IT_LAB2-master\lab2\bin\Debug\lab2.exe
+C:\Users\Nikita\Desktop\IT_LAB2-master\lab2\bin\Debug\lab2.pdb
+C:\Users\Nikita\Desktop\IT_LAB2-master\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\IT_LAB2-master\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\Nikita\Desktop\IT_LAB2-master\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\IT_LAB2-master\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\IT_LAB2-master\lab2\obj\Debug\lab2.exe
+C:\Users\Nikita\Desktop\IT_LAB2-master\lab2\obj\Debug\lab2.pdb
+C:\Users\Nikita\Desktop\IT_LAB2-master\lab2\obj\Debug\LAB2_TI.Form1.resources
